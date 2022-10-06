@@ -1,0 +1,22 @@
+{
+  "name": "apipractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ApiPrac.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YANGSANGHEE/APIPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YANGSANGHEE/APIPractice/issues"
+  },
+  "homepage": "https://github.com/YANGSANGHEE/APIPractice#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
